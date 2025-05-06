@@ -1,4 +1,4 @@
-# sofiia-portfolio - My Data Analyst Project Portfolio
+# My Data Analyst Project Portfolio
 
 🎓 IT BCom – Business Systems Analytics | Data & Business Analyst
 
