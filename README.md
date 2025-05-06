@@ -1,4 +1,5 @@
-# sofiia-portfolio - My Data Analyst Project Portfolio
+# sofiia-portfolio 
+My Data Analyst Project Portfolio
 
 Welcome! I'm Sofiia, a recent IT graduate specializing in Business Systems Analytics.  
 This portfolio showcases selected projects where I applied my skills in:
