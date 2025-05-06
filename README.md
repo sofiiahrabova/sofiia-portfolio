@@ -1,4 +1,5 @@
 # sofiia-portfolio 
+🎓 IT BCom – Business Systems Analytics | Data & Business Analyst
 My Data Analyst Project Portfolio
 
 Welcome! I'm Sofiia, a recent IT graduate specializing in Business Systems Analytics.  
