@@ -8,7 +8,7 @@ This portfolio showcases selected projects where I applied my skills in:
 - 🗺 Process mapping & business documentation
 - 🧠 SQL query building
 
-- ## 🔹 Featured Projects
+## 🔹 Featured Projects
 
 ### [1. Sales Performance Dashboard (Power BI)]
 Interactive dashboard built with Power BI using sales data from a public dataset.  
