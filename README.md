@@ -5,7 +5,7 @@
 
 Welcome! I'm Sofiia, a recent graduate with a strong foundation in business systems, analytics, and data-driven decision-making. This portfolio highlights projects where I've applied technical tools and business analysis techniques to solve real-world problems.
 
---
+---
 ## 🔍 Core Skills
 
 - 📊 Power BI dashboards
@@ -13,7 +13,7 @@ Welcome! I'm Sofiia, a recent graduate with a strong foundation in business syst
 - 🗺 Process mapping & business documentation
 - 🧠 SQL query building
 
--- 
+---
 
 ## 📁 Featured Projects
 
