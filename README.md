@@ -30,16 +30,10 @@ Built a predictive model to identify churn-prone customers using logistic regres
 **Tools:** Python, Pandas, Scikit-learn  
 **Skills:** EDA, feature engineering, model evaluation
 
----
-
-### 🔹 [3. Healthcare Intake Process Redesign](./healthcare-intake-process)
-Mapped and redesigned a patient intake workflow based on real experience at Ontario Health 811. Included BPMN diagrams and a BRD for proposed improvements.  
-**Tools:** Visio, Draw.io, Word  
-**Skills:** Business process analysis, stakeholder communication, documentation
 
 ---
 
-### 🔹 [4. Job Market Analysis (SQL)](./sql-job-market)
+### 🔹 [3. Job Market Analysis (SQL)](./sql-job-market)
 Analyzed Canadian job data to identify demand trends, average salaries, and role distribution using SQL and Excel dashboards.  
 **Tools:** MySQL, Excel  
 **Skills:** Query writing, data aggregation, reporting
