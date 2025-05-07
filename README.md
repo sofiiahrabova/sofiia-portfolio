@@ -18,10 +18,10 @@ Welcome! I'm Sofiia, a recent graduate with a strong foundation in business syst
 
 ## 📁 Featured Projects
 
-### 🔹 [1. Sales Performance Dashboard (Power BI)](./sales-dashboard-powerbi)
-Created an interactive dashboard from raw sales data to analyze regional performance, product trends, and profit margins.  
+### 🔹 [1. LinkedIn Job Market Dashboard ]([Power BI)](./sales-dashboard-powerbi](https://github.com/sofiiahrabova/linkedin-job-market-dashboard.git)
+A Power BI dashboard analyzing 250+ LinkedIn job postings to uncover trends by role, company, and location.  
 **Tools:** Power BI, Excel  
-**Skills:** Data cleaning, DAX, visualization, executive reporting
+**Skills:** Data cleaning, visualization, dashboard design, job market insights
 
 ---
 
