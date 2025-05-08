@@ -25,7 +25,7 @@ A Power BI dashboard analyzing 250+ LinkedIn job postings to uncover trends by r
 
 ---
 
-### 🔹 [Customer Churn Prediction (Python)](https://github.com/sofiiahrabova/customer-churn-prediction)
+### 🔹 [2. Customer Churn Prediction (Python)](https://github.com/sofiiahrabova/customer-churn-prediction)
 A logistic regression model to predict customer churn using Telco customer data.  
 **Tools:** Python, pandas, scikit-learn  
 **Skills:** Data cleaning, EDA, feature scaling, model training, evaluation, visualization, business insight reporting
